@@ -1,3 +1,5 @@
+![alt text](https://github.com/raffisahakyan/Plot_Templates/blob/master/Creating%20Interesting%20Bar%20Plots%20with%20Matplotlib_Raffi%20Sahakyan_P2.png)
+
 # Plot Templates
 Repository for amusing plot templates that were designed during creative process. 
 
